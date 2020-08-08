@@ -16,6 +16,16 @@ const COUNTRIES = [
     flag: BrazilFlag
   },
   {
+    label: 'Espanha',
+    value: 'spain',
+    flag: BrazilFlag
+  },
+  {
+    label: 'Mundo',
+    value: 'world',
+    flag: BrazilFlag
+  },
+  {
     label: 'China',
     value: 'china',
     flag: ChinaFlag
